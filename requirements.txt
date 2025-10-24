@@ -1,0 +1,9 @@
+ultralytics==8.2.103
+roboflow
+ipython
+torch
+numpy
+matplotlib
+opencv-python-headless
+Pillow
+PyYAML
